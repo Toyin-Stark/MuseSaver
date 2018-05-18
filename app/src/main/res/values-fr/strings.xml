@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--App Translator - item states storage;app_name=3;
+--><resources>
+  <string name="app_name">MuseSaver</string>
+  <string name="fb_button">OUVERT MUSICAL.LY</string>
+  <string name="learn">REGARDER LA VIDÉO</string>
+  <string name="content_image">Photo</string>
+  <string name="content_video">Lire la vidéo</string>
+  <string name="downloadStart">Le téléchargement a commencé</string>
+  <string name="downloadVideo">Téléchargement de vidéo</string>
+  <string name="home_tab">Instagram</string>
+  <string name="save_tab">Galerie</string>
+  <string name="sorry">Désolé, cette vidéo ne peut pas être téléchargée</string>
+  <string name="note_title">MuseSaver est activé</string>
+  <string name="note_text">Copier le lien musical.ly pour télécharger la vidéo</string>
+  <string name="bannerTitle">Téléchargement ...</string>
+  <string name="auto">MuseSaver</string>
+  <string name="permissionPositive">D'accord</string>
+  <string name="permissionNegative">Annuler</string>
+  <string name="permissionMessage">Cette application ne peut pas fonctionner correctement sans cette autorisation</string>
+  <string name="permissionTitle">Permission nécessaire</string>
+</resources>

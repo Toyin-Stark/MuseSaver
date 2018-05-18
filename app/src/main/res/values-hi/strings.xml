@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--App Translator - item states storage;app_name=3;
+--><resources>
+  <string name="app_name">MuseSaver</string>
+  <string name="fb_button">संगीत खोलें। केवल</string>
+  <string name="learn">वीडियो देखेंा</string>
+  <string name="content_image">तस्वीर</string>
+  <string name="content_video">वीडियो चलाएं</string>
+  <string name="downloadStart">डाउनलोड शुरू हो गया है</string>
+  <string name="downloadVideo">वीडियो डाउनलोड करना</string>
+  <string name="home_tab">Instagram</string>
+  <string name="save_tab">गेलरी</string>
+  <string name="sorry">क्षमा करें यह मीडिया डाउनलोड नहीं किया जा सकता है</string>
+  <string name="note_title">MuseSaver सक्रिय है</string>
+  <string name="note_text">वीडियो डाउनलोड करने के लिए musical.ly लिंक कॉपी करें</string>
+  <string name="bannerTitle">डाउनलोड कर रहा है</string>
+  <string name="auto">MuseSaver</string>
+  <string name="permissionPositive">ठीक</string>
+  <string name="permissionNegative">रद्द करना</string>
+  <string name="permissionMessage">यह ऐप इस अनुमति के बिना ठीक से काम नहीं कर सकता है</string>
+  <string name="permissionTitle">अनुमति की आवश्यकता है</string>
+</resources>

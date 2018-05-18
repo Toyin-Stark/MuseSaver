@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!--App Translator - item states storage;app_name=3;
+--><resources>
+  <string name="app_name">MuseSaver</string>
+  <string name="fb_button">MUSICAL.LY'yi aç</string>
+  <string name="learn">VİDEO İZLE</string>
+  <string name="content_image">Fotoğraf</string>
+  <string name="content_video">Video oynatmak</string>
+  <string name="downloadStart">İndirme başladı</string>
+  <string name="downloadVideo">Video İndiriliyor</string>
+  <string name="home_tab">Instagram</string>
+  <string name="save_tab">galeri</string>
+  <string name="sorry">Maalesef bu medya indirilemiyor</string>
+  <string name="note_title">MuseSaver etkinleştirildi</string>
+  <string name="note_text">Video indirmek için musical.ly bağlantısını kopyalayın</string>
+  <string name="bannerTitle">İndiriliyor ...</string>
+  <string name="auto">MuseSaver</string>
+  <string name="permissionPositive">Tamam</string>
+  <string name="permissionNegative">İptal etmek</string>
+  <string name="permissionMessage">Bu uygulama, bu izin olmadan düzgün çalışamaz</string>
+  <string name="permissionTitle">Izin gerekli</string>
+</resources>

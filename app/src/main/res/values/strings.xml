@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">MuseSaver</string>
+
+
+    <string name="fb_button">OPEN MUSICAL.LY</string>
+    <string name="learn">WATCH VIDEO</string>
+
+    <string name="content_image">Photo</string>
+    <string name="content_video">Play video</string>
+
+    <string name="downloadStart">The download has started</string>
+    <string name="downloadVideo">Downloading Video</string>
+
+    <string name="home_tab">Instagram</string>
+    <string name="save_tab">Downloads</string>
+
+    <string name="sorry">Sorry this media cannot be downloaded</string>
+
+    <string name="note_title">MuseSaver is on</string>
+    <string name="note_text">Copy musical.ly link to download video</string>
+    <string name="bannerTitle">Downloading…</string>
+    <string name="auto">MuseSaver</string>
+
+
+    <string name="permissionPositive">Ok</string>
+    <string name="permissionNegative">Cancel</string>
+    <string name="permissionMessage">This app cannot work properly without this permission</string>
+    <string name="permissionTitle">Permission needed</string>
+
+
+
+</resources>
